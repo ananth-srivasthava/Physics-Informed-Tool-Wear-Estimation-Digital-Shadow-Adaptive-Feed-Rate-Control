@@ -1,0 +1,7 @@
+# Runtime dependencies for the Streamlit milling tool-wear dashboard
+streamlit==1.66.1
+numpy>=2.0,<3.0
+pandas>=2.2,<4.0
+scipy>=1.18.1,<2.0
+scikit-learn>=1.9.1,<2.0
+plotly>=6.0,<7.0
